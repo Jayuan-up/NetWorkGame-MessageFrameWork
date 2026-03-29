@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\Hp-GameServerDemo\Hp-GameServerDemo\bin\Debug\Hp-GameServerDemo.exe.config
+C:\Users\PC\source\repos\Hp-GameServerDemo\Hp-GameServerDemo\bin\Debug\Hp-GameServerDemo.exe
+C:\Users\PC\source\repos\Hp-GameServerDemo\Hp-GameServerDemo\bin\Debug\Hp-GameServerDemo.pdb
+C:\Users\PC\source\repos\Hp-GameServerDemo\Hp-GameServerDemo\obj\Debug\Hp-GameServerDemo.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Hp-GameServerDemo\Hp-GameServerDemo\obj\Debug\Hp-GameServerDemo.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Hp-GameServerDemo\Hp-GameServerDemo\obj\Debug\Hp-GameServerDemo.exe
+C:\Users\PC\source\repos\Hp-GameServerDemo\Hp-GameServerDemo\obj\Debug\Hp-GameServerDemo.pdb
+C:\Users\PC\source\repos\Hp-GameServerDemo\Hp-GameServerDemo\bin\Debug\HPSocket4C.dll
+C:\Users\PC\source\repos\Hp-GameServerDemo\Hp-GameServerDemo\bin\Debug\HPSocket.Net.dll
+C:\Users\PC\source\repos\Hp-GameServerDemo\Hp-GameServerDemo\bin\Debug\HPSocket.Net.pdb
+C:\Users\PC\source\repos\Hp-GameServerDemo\Hp-GameServerDemo\bin\Debug\HPSocket.Net.xml
+C:\Users\PC\source\repos\Hp-GameServerDemo\Hp-GameServerDemo\obj\Debug\Hp-GameS.C510BCDE.Up2Date
